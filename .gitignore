@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# 忽略 test 文件夹（编译产物目录）
+test/
+
+# 忽略所有动态链接库文件
+*.dll
