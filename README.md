@@ -31,6 +31,7 @@
 openal32.dll。
 
 stockfish.exe (AI 引擎)。
+dll文件和stockfish在binaries压缩包里
 
 images/ 文件夹（存放素材）。
 
