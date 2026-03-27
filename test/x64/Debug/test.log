@@ -1,0 +1,119 @@
+﻿  main.cpp
+E:\vs项目\chess\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\vs项目\chess\Connector.hpp(41,57): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs项目\chess\Connector.hpp(53,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs项目\chess\main.cpp(37,30): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(37,30): warning C4244:         with
+E:\vs项目\chess\main.cpp(37,30): warning C4244:         [
+E:\vs项目\chess\main.cpp(37,30): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(37,30): warning C4244:         ]
+E:\vs项目\chess\main.cpp(37,20): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(37,20): warning C4244:         with
+E:\vs项目\chess\main.cpp(37,20): warning C4244:         [
+E:\vs项目\chess\main.cpp(37,20): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(37,20): warning C4244:         ]
+E:\vs项目\chess\main.cpp(69,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\vs项目\chess\main.cpp(69,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\vs项目\chess\main.cpp(156,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(156,9): warning C4244:         with
+E:\vs项目\chess\main.cpp(156,9): warning C4244:         [
+E:\vs项目\chess\main.cpp(156,9): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(156,9): warning C4244:         ]
+E:\vs项目\chess\main.cpp(157,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(157,9): warning C4244:         with
+E:\vs项目\chess\main.cpp(157,9): warning C4244:         [
+E:\vs项目\chess\main.cpp(157,9): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(157,9): warning C4244:         ]
+E:\vs项目\chess\main.cpp(158,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(158,9): warning C4244:         with
+E:\vs项目\chess\main.cpp(158,9): warning C4244:         [
+E:\vs项目\chess\main.cpp(158,9): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(158,9): warning C4244:         ]
+E:\vs项目\chess\main.cpp(159,9): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(159,9): warning C4244:         with
+E:\vs项目\chess\main.cpp(159,9): warning C4244:         [
+E:\vs项目\chess\main.cpp(159,9): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(159,9): warning C4244:         ]
+E:\vs项目\chess\main.cpp(455,53): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         with
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         [
+E:\vs项目\chess\main.cpp(455,53): warning C4244:             T=int
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         ]
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         and
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         [
+E:\vs项目\chess\main.cpp(455,53): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(455,53): warning C4244:         ]
+E:\vs项目\chess\main.cpp(455,46): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         with
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         [
+E:\vs项目\chess\main.cpp(455,46): warning C4244:             T=int
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         ]
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         and
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         [
+E:\vs项目\chess\main.cpp(455,46): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(455,46): warning C4244:         ]
+E:\vs项目\chess\main.cpp(472,64): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(472,64): warning C4244:         with
+E:\vs项目\chess\main.cpp(472,64): warning C4244:         [
+E:\vs项目\chess\main.cpp(472,64): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(472,64): warning C4244:         ]
+E:\vs项目\chess\main.cpp(472,54): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(472,54): warning C4244:         with
+E:\vs项目\chess\main.cpp(472,54): warning C4244:         [
+E:\vs项目\chess\main.cpp(472,54): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(472,54): warning C4244:         ]
+E:\vs项目\chess\main.cpp(473,53): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(473,53): warning C4244:         with
+E:\vs项目\chess\main.cpp(473,53): warning C4244:         [
+E:\vs项目\chess\main.cpp(473,53): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(473,53): warning C4244:         ]
+E:\vs项目\chess\main.cpp(473,29): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+E:\vs项目\chess\main.cpp(473,29): warning C4244:         with
+E:\vs项目\chess\main.cpp(473,29): warning C4244:         [
+E:\vs项目\chess\main.cpp(473,29): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(473,29): warning C4244:         ]
+E:\vs项目\chess\main.cpp(484,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(484,14): warning C4244:         with
+E:\vs项目\chess\main.cpp(484,14): warning C4244:         [
+E:\vs项目\chess\main.cpp(484,14): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(484,14): warning C4244:         ]
+E:\vs项目\chess\main.cpp(484,36): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(484,36): warning C4244:         with
+E:\vs项目\chess\main.cpp(484,36): warning C4244:         [
+E:\vs项目\chess\main.cpp(484,36): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(484,36): warning C4244:         ]
+E:\vs项目\chess\main.cpp(485,14): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(485,14): warning C4244:         with
+E:\vs项目\chess\main.cpp(485,14): warning C4244:         [
+E:\vs项目\chess\main.cpp(485,14): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(485,14): warning C4244:         ]
+E:\vs项目\chess\main.cpp(485,36): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(485,36): warning C4244:         with
+E:\vs项目\chess\main.cpp(485,36): warning C4244:         [
+E:\vs项目\chess\main.cpp(485,36): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(485,36): warning C4244:         ]
+E:\vs项目\chess\main.cpp(533,11): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(533,11): warning C4244:         with
+E:\vs项目\chess\main.cpp(533,11): warning C4244:         [
+E:\vs项目\chess\main.cpp(533,11): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(533,11): warning C4244:         ]
+E:\vs项目\chess\main.cpp(533,33): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(533,33): warning C4244:         with
+E:\vs项目\chess\main.cpp(533,33): warning C4244:         [
+E:\vs项目\chess\main.cpp(533,33): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(533,33): warning C4244:         ]
+E:\vs项目\chess\main.cpp(534,11): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(534,11): warning C4244:         with
+E:\vs项目\chess\main.cpp(534,11): warning C4244:         [
+E:\vs项目\chess\main.cpp(534,11): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(534,11): warning C4244:         ]
+E:\vs项目\chess\main.cpp(534,33): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+E:\vs项目\chess\main.cpp(534,33): warning C4244:         with
+E:\vs项目\chess\main.cpp(534,33): warning C4244:         [
+E:\vs项目\chess\main.cpp(534,33): warning C4244:             T=float
+E:\vs项目\chess\main.cpp(534,33): warning C4244:         ]
+  test.vcxproj -> E:\vs项目\chess\x64\Debug\test.exe
